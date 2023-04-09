@@ -1,3 +1,3 @@
-# TextToSpeech-test
-a test program to use cpp features
-
+# TextToSpeech
+a test program to use cpp features like multi-threading and OOP...
+this program animate your input sentence and speech it at the same time...
